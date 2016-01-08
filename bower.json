@@ -1,0 +1,33 @@
+{
+  "name": "SkiWaxNow",
+  "authors": [
+    "Andreas Dellrud <nerendor@hotmail.com>"
+  ],
+  "description": "Suggests wich ski wax to used based on the temperature of the location. Also gives som info and tips on how to apply ski wax.",
+  "main": "main.js",
+  "moduleType": [],
+  "keywords": [
+    "Ski",
+    "Wax",
+    "Valla",
+    "Snow",
+    "Temperature",
+    "Skiing",
+    "Skidåkning"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~1.0.0",
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6"
+  }
+}
